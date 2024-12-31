@@ -4,5 +4,8 @@ It generates concise, actionable summaries highlighting key points like decision
 
 Here is the complete report. [Link](https://github.com/shrbh025/Smart_Meeting_Summarizer/blob/main/SmartMeetingSummarizer_Report.pdf)
 
-
+UI:
 ![Screenshot 2024-12-31 at 3 40 59 PM](https://github.com/user-attachments/assets/88814f8f-8d0d-4e4d-9bb7-afac9af95161)
+
+Sample transcript o/p:
+![Screenshot 2024-12-31 at 3 44 54 PM](https://github.com/user-attachments/assets/a7334166-de23-4135-a82c-e87ad3aa1673)
